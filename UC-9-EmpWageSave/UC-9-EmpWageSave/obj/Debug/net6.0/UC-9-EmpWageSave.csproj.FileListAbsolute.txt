@@ -1,0 +1,15 @@
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\bin\Debug\net6.0\UC-9-EmpWageSave.exe
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\bin\Debug\net6.0\UC-9-EmpWageSave.deps.json
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\bin\Debug\net6.0\UC-9-EmpWageSave.runtimeconfig.json
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\bin\Debug\net6.0\UC-9-EmpWageSave.dll
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\bin\Debug\net6.0\UC-9-EmpWageSave.pdb
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.csproj.AssemblyReference.cache
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.AssemblyInfoInputs.cache
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.AssemblyInfo.cs
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.dll
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\refint\UC-9-EmpWageSave.dll
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.pdb
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\UC-9-EmpWageSave.genruntimeconfig.cache
+C:\RFP\C sharp\UC-9-EmpWageSave\UC-9-EmpWageSave\obj\Debug\net6.0\ref\UC-9-EmpWageSave.dll
