@@ -1,0 +1,15 @@
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\bin\Debug\net6.0\UC-8-EmpWageMultipleCompany.exe
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\bin\Debug\net6.0\UC-8-EmpWageMultipleCompany.deps.json
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\bin\Debug\net6.0\UC-8-EmpWageMultipleCompany.runtimeconfig.json
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\bin\Debug\net6.0\UC-8-EmpWageMultipleCompany.dll
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\bin\Debug\net6.0\UC-8-EmpWageMultipleCompany.pdb
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.csproj.AssemblyReference.cache
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.AssemblyInfoInputs.cache
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.AssemblyInfo.cs
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.dll
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\refint\UC-8-EmpWageMultipleCompany.dll
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.pdb
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\UC-8-EmpWageMultipleCompany.genruntimeconfig.cache
+C:\RFP\C sharp\UC-8-EmpWageMultipleCompany\UC-8-EmpWageMultipleCompany\obj\Debug\net6.0\ref\UC-8-EmpWageMultipleCompany.dll
