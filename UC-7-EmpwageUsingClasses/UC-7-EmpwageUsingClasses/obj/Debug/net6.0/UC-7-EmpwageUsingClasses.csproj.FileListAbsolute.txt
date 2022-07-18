@@ -1,0 +1,15 @@
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\bin\Debug\net6.0\UC-7-EmpwageUsingClasses.exe
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\bin\Debug\net6.0\UC-7-EmpwageUsingClasses.deps.json
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\bin\Debug\net6.0\UC-7-EmpwageUsingClasses.runtimeconfig.json
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\bin\Debug\net6.0\UC-7-EmpwageUsingClasses.dll
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\bin\Debug\net6.0\UC-7-EmpwageUsingClasses.pdb
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.csproj.AssemblyReference.cache
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.AssemblyInfoInputs.cache
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.AssemblyInfo.cs
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.dll
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\refint\UC-7-EmpwageUsingClasses.dll
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.pdb
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\UC-7-EmpwageUsingClasses.genruntimeconfig.cache
+C:\RFP\C sharp\UC-7-EmpwageUsingClasses\UC-7-EmpwageUsingClasses\obj\Debug\net6.0\ref\UC-7-EmpwageUsingClasses.dll
