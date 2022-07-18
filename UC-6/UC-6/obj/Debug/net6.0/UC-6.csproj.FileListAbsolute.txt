@@ -1,0 +1,15 @@
+C:\RFP\C sharp\UC-6\UC-6\bin\Debug\net6.0\UC-6.exe
+C:\RFP\C sharp\UC-6\UC-6\bin\Debug\net6.0\UC-6.deps.json
+C:\RFP\C sharp\UC-6\UC-6\bin\Debug\net6.0\UC-6.runtimeconfig.json
+C:\RFP\C sharp\UC-6\UC-6\bin\Debug\net6.0\UC-6.dll
+C:\RFP\C sharp\UC-6\UC-6\bin\Debug\net6.0\UC-6.pdb
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.csproj.AssemblyReference.cache
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.AssemblyInfoInputs.cache
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.AssemblyInfo.cs
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.dll
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\refint\UC-6.dll
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.pdb
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\UC-6.genruntimeconfig.cache
+C:\RFP\C sharp\UC-6\UC-6\obj\Debug\net6.0\ref\UC-6.dll
